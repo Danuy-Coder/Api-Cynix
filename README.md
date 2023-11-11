@@ -4,11 +4,11 @@
 
 ###
 
-<h2 align="center">アユミックブー</h2>
+<h2 align="center">ダンツ・シニックス</h2>
 
 ###
 
-<h4 align="center">Ayumi Botz🥰</h4>
+<h4 align="center">Danz Cynix</h4>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Konnichiwa</h1>
 
 ###
 
