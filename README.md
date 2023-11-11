@@ -31,9 +31,7 @@
 ###
 
 <h3 align="left">👩‍💻  Tentang Bot...</h3>
-
 ###
-
 <p align="left">Feature<br>
 <br><br>- Fun menu<br>- Grup menu<br>- Game menu<br>- nsfw<br>- halu menu</p>
 
